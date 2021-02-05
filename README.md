@@ -1,2 +1,3 @@
-# Grim
-whateva hey...
+# KroniK xo CS50 Repository
+
+
